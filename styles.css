@@ -128,8 +128,7 @@ text-align: center;
 
 /** footers **/
 .footer{
-    background-color: var
-    (--primary-color);
+    background-color: var(--primary-color);
     padding: 2rem 1rem;
     text-align: center;
     color:rgb(22, 21, 21);
