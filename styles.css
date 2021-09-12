@@ -17,9 +17,6 @@ hr {
     margin: 2rem 0rem;
 }
 
-/** spaces**/
-
-
 /** container **/
 .container{
     padding:0rem 1rem;
@@ -65,7 +62,7 @@ hr {
 /** navigation **/
 
 .navigation {
-    background-colour: var(--primary-color);
+    background-color: var(--primary-color);
     color: black;
     padding: 0.5rem 0.5rem;
     border-bottom-left-radius: 1rem;
